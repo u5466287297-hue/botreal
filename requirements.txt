@@ -1,2 +1,7 @@
 Flask==3.0.3
 plotly==5.22.0
+flask
+pandas
+yfinance
+ta
+plotly
